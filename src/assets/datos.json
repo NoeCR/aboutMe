@@ -1,0 +1,44 @@
+{
+  "news" : [
+      {
+          "img" : "1.jpg",
+          "name" : "Sitio Web",
+          "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+      },
+      {
+          "img" : "2.jpg",
+          "name" : "App",
+          "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+      },
+      {
+          "img" : "3.jpg",
+          "name" : "App",
+          "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+      },
+      {
+          "img" : "4.jpg",
+          "name" : "Aplicación Web",
+          "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+      },
+      {
+          "img" : "5.jpg",
+          "name" : "App",
+          "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+      },
+      {
+          "img" : "6.jpg",
+          "name" : "App",
+          "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+      },
+      {
+          "img" : "7.jpg",
+          "name" : "App",
+          "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+      },
+      {
+          "img" : "8.jpg",
+          "name" : "App",
+          "desc" : "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+      }
+  ]
+}
