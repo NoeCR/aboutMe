@@ -5,9 +5,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { CurriculumComponent } from './pages/curriculum/curriculum.component';
+import { HomeComponent } from './pages/home/home.component';
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    CurriculumComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
